@@ -1,0 +1,54 @@
+#back{
+   background: linear-gradient(to right, rgb(51, 102, 255) , rgb(0, 0, 153));
+  
+ }
+ #myNavbar1 ul li a{
+     color:white;
+         font-size:2em;
+ }
+ 
+ #hero-image {
+    background-image:url('w1.jpg');
+background-size: 100% 100%;
+    background-repeat: no-repeat;
+   text-align: center;
+    position: relative;
+    padding: 20%;
+        margin: 0%;
+}
+#text{
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:#cc0066;
+    
+}
+#pri a:hover{
+    background-color: #cc0066;
+}
+#lowerd{
+    background: linear-gradient(to bottom right, #cc0066 , #751aff);
+}
+#lowerdul a{
+    color: #42dff4;
+    font-size: 1.2em;
+   
+}
+#lowerdul li{
+    padding-left:1%; 
+    text-align: center;
+     list-style-type: circle;
+}
+#m{
+    padding-left: 40% 
+}
+#vd{
+  border:10px solid black;
+  border-bottom: 200px solid black;
+}
+#contact a{
+    
+    color:#42dff4
+}
